@@ -1,5 +1,13 @@
 # Practicum1-house_price-regression
-build the model using regression technique such as random forest and gradient boosting
+#Project summary
+
+The purpose of this project is to build machine learning models such as random forest, gradient boosting and stack models of the two to predict the sale prices of a house. This project is from the kaggle competition. In this summary I will outline four things:
+
+I.	Data source and data description
+II.	Initial data exploratory
+III.	Steps to clean data and select features
+IV.	Build random forest, gradient boosting and stack model  
+
 
 final report are in : final_report.docx
 
