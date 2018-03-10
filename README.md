@@ -19,3 +19,7 @@ R code are in  :data_exploratory.R, clean_data.R, build_rf_model.R, build_XGboos
 
 output file by R code:  selectedFeatureData.csv, result_final_rf_model.csv,  result_xgb_boost_model.csv , result_stack_model.csv
 
+link to project description and data
+
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+
